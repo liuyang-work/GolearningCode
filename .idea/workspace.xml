@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bfd2785-2ca4-471f-b2d5-84653004f07a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/defer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for_continue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for_is_gos_while.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/forever.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if_and_else.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if_with_a_short_statement.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../EXsoftware/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jCV3aPXOu9YEPLeEbDHL0XTH0n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build exercise_loops_and_functions.go">
+    <configuration name="go build GolearningCode/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/defer.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build defer_multi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercise_loops_and_functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build switch_evaluation_order.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build switch_with_no_condition.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build GolearningCode/" />
+      <item itemvalue="Go Build.go build switch_evaluation_order.go" />
+      <item itemvalue="Go Build.go build switch_with_no_condition.go" />
+      <item itemvalue="Go Build.go build defer.go" />
+      <item itemvalue="Go Build.go build defer_multi.go" />
+      <item itemvalue="Go Build.go build exercise_loops_and_functions.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build exercise_loops_and_functions.go" />
+        <item itemvalue="Go Build.go build defer_multi.go" />
+        <item itemvalue="Go Build.go build defer.go" />
+        <item itemvalue="Go Build.go build switch_with_no_condition.go" />
+        <item itemvalue="Go Build.go build switch_evaluation_order.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="235" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603307992191">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603307992191" />
+    <state width="1866" height="331" key="GridCell.Tab.0.bottom" timestamp="1603375104372">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
+    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
+    <state width="1866" height="331" key="GridCell.Tab.0.center" timestamp="1603375104372">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
+    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
+    <state width="1866" height="331" key="GridCell.Tab.0.left" timestamp="1603375104372">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
+    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
+    <state width="1866" height="331" key="GridCell.Tab.0.right" timestamp="1603375104372">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1866" height="331" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
+    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
+    <state width="1867" height="378" key="GridCell.Tab.1.bottom" timestamp="1603369625327">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="378" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
+    <state width="1867" height="378" key="GridCell.Tab.1.center" timestamp="1603369625327">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="378" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
+    <state width="1867" height="378" key="GridCell.Tab.1.left" timestamp="1603369625327">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="378" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
+    <state width="1867" height="378" key="GridCell.Tab.1.right" timestamp="1603369625327">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1867" height="378" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
+    <state x="2283" y="154" width="1326" height="883" key="SettingsEditor" timestamp="1603371714037">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2283" y="154" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603371714037" />
+    <state x="309" y="144" width="1326" height="883" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1603308754145" />
+    <state x="614" y="258" width="675" height="655" key="StructurePopup" timestamp="1603308502879">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="614" y="258" width="675" height="655" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1603308502879" />
+  </component>
+</project>
