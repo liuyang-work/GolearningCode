@@ -20,63 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bfd2785-2ca4-471f-b2d5-84653004f07a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/append.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/array.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_fibonacci_closure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_slices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/function_closures.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/function_values.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/making_slices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/map_literals.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/map_literals_continued.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/nil_slices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/pointers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/range.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/range_continued.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_bounds.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_len_cap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_literals.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_of_slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slices.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/slices_pointers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_fields.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_literals.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_pointers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gobase_day03/structs.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/basic_types.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/basic_types.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/constants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/exported_names.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/exported_names.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/functions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/functions_continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/functions_continued.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/import.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/multiple_results.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/multiple_results.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/name_results.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/name_results.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/numeric_constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/numeric_constants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/packages.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/packages.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/short_variable_declarations.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/short_variable_declarations.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/type_conversions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/type_conversions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/type_inference.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/type_inference.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/variables.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/variables_with_intializers.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/variables_with_intializers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase/zero.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/zero.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/defer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/defer_multi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/exercise_loops_and_functions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for_continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for_continue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for_is_gos_while.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for_is_gos_while.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/forever.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/forever.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if_and_else.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if_and_else.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if_with_a_short_statement.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if_with_a_short_statement.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch_evaluation_order.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch_with_no_condition.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/append.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/append.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_fibonacci_closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/exercise_fibonacci_closure.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/exercise_maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/exercise_slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/function_closures.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/function_closures.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/function_values.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/function_values.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/making_slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/making_slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/map_literals.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/map_literals.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/map_literals_continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/map_literals_continued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/nil_slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/nil_slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/pointers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/range.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/range.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/range_continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/range_continued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slice_bounds.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slice_bounds.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slice_len_cap.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slice_len_cap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slice_literals.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slice_literals.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slice_of_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slice_of_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/slices_pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/slices_pointers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/struct_fields.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/struct_fields.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/struct_literals.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/struct_literals.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/struct_pointers.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/struct_pointers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gobase_day03/structs.go" beforeDir="false" afterPath="$PROJECT_DIR$/Gobase_day03/structs.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
