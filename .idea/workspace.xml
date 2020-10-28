@@ -20,19 +20,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bfd2785-2ca4-471f-b2d5-84653004f07a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/defer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for_continue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/for_is_gos_while.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/forever.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if_and_else.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/if_with_a_short_statement.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/append.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_fibonacci_closure.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_maps.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/exercise_slices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/function_closures.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/function_values.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/making_slices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/map_literals.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/map_literals_continued.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/maps.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/nil_slices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/pointers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/range.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/range_continued.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_bounds.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_len_cap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_literals.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slice_of_slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/slices_pointers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_fields.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_literals.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/struct_pointers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gobase_day03/structs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/basic_types.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/basic_types.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/constants.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/exported_names.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/exported_names.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/functions_continued.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/functions_continued.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/import.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/import.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/multiple_results.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/multiple_results.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/name_results.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/name_results.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/numeric_constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/numeric_constants.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/packages.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/packages.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/short_variable_declarations.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/short_variable_declarations.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/type_conversions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/type_conversions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/type_inference.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/type_inference.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/variables_with_intializers.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/variables_with_intializers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase/zero.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day01/zero.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/defer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/defer_multi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/exercise_loops_and_functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for_continue.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for_continue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/for_is_gos_while.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for_is_gos_while.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/forever.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/forever.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if_and_else.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if_and_else.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/if_with_a_short_statement.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/if_with_a_short_statement.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch_evaluation_order.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/switch_with_no_condition.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +111,12 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise_loops_and_functions.go">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning\Go_Program\GolearningCode\sorter\src\algorithm\quicksort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build function_closures.go">
     <configuration name="go build GolearningCode/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -77,61 +126,61 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build function_closures.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/defer.go" />
+      <filePath value="$PROJECT_DIR$/Gobase_day03/function_closures.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build defer_multi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build function_values.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/defer_multi.go" />
+      <filePath value="$PROJECT_DIR$/Gobase_day03/function_values.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise_loops_and_functions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build map_literals_continued.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/exercise_loops_and_functions.go" />
+      <filePath value="$PROJECT_DIR$/Gobase_day03/map_literals_continued.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build switch_evaluation_order.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build map_literals.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/switch_evaluation_order.go" />
+      <filePath value="$PROJECT_DIR$/Gobase_day03/map_literals.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build switch_with_no_condition.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build mutating_maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoBaseCcontinue/switch_with_no_condition.go" />
+      <filePath value="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build GolearningCode/" />
-      <item itemvalue="Go Build.go build switch_evaluation_order.go" />
-      <item itemvalue="Go Build.go build switch_with_no_condition.go" />
-      <item itemvalue="Go Build.go build defer.go" />
-      <item itemvalue="Go Build.go build defer_multi.go" />
-      <item itemvalue="Go Build.go build exercise_loops_and_functions.go" />
+      <item itemvalue="Go Build.go build map_literals.go" />
+      <item itemvalue="Go Build.go build map_literals_continued.go" />
+      <item itemvalue="Go Build.go build mutating_maps.go" />
+      <item itemvalue="Go Build.go build function_values.go" />
+      <item itemvalue="Go Build.go build function_closures.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercise_loops_and_functions.go" />
-        <item itemvalue="Go Build.go build defer_multi.go" />
-        <item itemvalue="Go Build.go build defer.go" />
-        <item itemvalue="Go Build.go build switch_with_no_condition.go" />
-        <item itemvalue="Go Build.go build switch_evaluation_order.go" />
+        <item itemvalue="Go Build.go build function_closures.go" />
+        <item itemvalue="Go Build.go build function_values.go" />
+        <item itemvalue="Go Build.go build mutating_maps.go" />
+        <item itemvalue="Go Build.go build map_literals_continued.go" />
+        <item itemvalue="Go Build.go build map_literals.go" />
       </list>
     </recent_temporary>
   </component>
@@ -152,46 +201,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="672" y="228" width="576" height="772" key="#Build_Tags_&amp;_Vendoring" timestamp="1603856805913">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="672" y="228" width="576" height="772" key="#Build_Tags_&amp;_Vendoring/0.0.1920.1160@0.0.1920.1160" timestamp="1603856805913" />
+    <state x="629" y="358" key="#Notifications" timestamp="1603858117561">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="629" y="358" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1603858117561" />
     <state x="414" y="235" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603307992191">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="414" y="235" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603307992191" />
-    <state width="1866" height="331" key="GridCell.Tab.0.bottom" timestamp="1603375104372">
+    <state width="1866" height="330" key="GridCell.Tab.0.bottom" timestamp="1603867316204">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1866" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
-    <state width="1877" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
-    <state width="1866" height="331" key="GridCell.Tab.0.center" timestamp="1603375104372">
+    <state width="1866" height="330" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603867316204" />
+    <state width="1867" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603835677779" />
+    <state width="1866" height="330" key="GridCell.Tab.0.center" timestamp="1603867316204">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1866" height="331" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
-    <state width="1877" height="173" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
-    <state width="1866" height="331" key="GridCell.Tab.0.left" timestamp="1603375104372">
+    <state width="1866" height="330" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603867316204" />
+    <state width="1867" height="305" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603835677779" />
+    <state width="1866" height="330" key="GridCell.Tab.0.left" timestamp="1603867316204">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1866" height="331" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
-    <state width="1877" height="173" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
-    <state width="1866" height="331" key="GridCell.Tab.0.right" timestamp="1603375104372">
+    <state width="1866" height="330" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603867316204" />
+    <state width="1867" height="305" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603835677779" />
+    <state width="1866" height="330" key="GridCell.Tab.0.right" timestamp="1603867316204">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1866" height="331" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375104372" />
-    <state width="1877" height="173" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603309004272" />
-    <state width="1867" height="378" key="GridCell.Tab.1.bottom" timestamp="1603369625327">
+    <state width="1866" height="330" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603867316204" />
+    <state width="1867" height="305" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603835677779" />
+    <state width="1867" height="378" key="GridCell.Tab.1.bottom" timestamp="1603375352769">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="378" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
-    <state width="1867" height="378" key="GridCell.Tab.1.center" timestamp="1603369625327">
+    <state width="1867" height="378" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375352769" />
+    <state width="1867" height="378" key="GridCell.Tab.1.center" timestamp="1603375352769">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="378" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
-    <state width="1867" height="378" key="GridCell.Tab.1.left" timestamp="1603369625327">
+    <state width="1867" height="378" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375352769" />
+    <state width="1867" height="378" key="GridCell.Tab.1.left" timestamp="1603375352769">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="378" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
-    <state width="1867" height="378" key="GridCell.Tab.1.right" timestamp="1603369625327">
+    <state width="1867" height="378" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375352769" />
+    <state width="1867" height="378" key="GridCell.Tab.1.right" timestamp="1603375352769">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1867" height="378" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603369625327" />
+    <state width="1867" height="378" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603375352769" />
     <state x="2283" y="154" width="1326" height="883" key="SettingsEditor" timestamp="1603371714037">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
