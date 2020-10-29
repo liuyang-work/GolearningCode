@@ -12,7 +12,7 @@ func main() {
 	var s []int
 	printSlice2(s)
 
-	//添加一个 空切片
+	//添加一个空切片
 	s = append(s,0)
 	printSlice2(s)
 
