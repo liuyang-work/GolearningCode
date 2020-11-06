@@ -27,39 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bfd2785-2ca4-471f-b2d5-84653004f07a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/empty_interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_http_handlers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_images.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_reader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_rot_reader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/exercise_stringer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/images.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/indirection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/indirection_values.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/interface_values.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/interface_with_nil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/interfaces.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/interfaces_are_satisfied_implicitly.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods_continued.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods_funcs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods_pointers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods_pointers_explained.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/methods_with_pointer_receivers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/nil_interface_values.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/reader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/stringer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/type_assertions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/type_switvhes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GoBase_day04/web_servers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase_day02/for_is_gos_while.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day02/for_is_gos_while.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoBase_day03/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day03/array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_fibonacci_closure.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_maps.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gobase_day03/exercise_slices.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../EXsoftware/Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -92,7 +60,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
   </component>
   <component name="RecentsManager">
@@ -201,10 +169,11 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="672" y="228" width="576" height="772" key="#Build_Tags_&amp;_Vendoring/0.0.1920.1160@0.0.1920.1160" timestamp="1603856805913" />
-    <state x="2622" y="495" key="#GOROOT" timestamp="1604290909676">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state x="748" y="528" width="410" height="144" key="#GOROOT" timestamp="1604660551213">
+      <screen x="72" y="27" width="1848" height="1173" />
     </state>
     <state x="2622" y="495" key="#GOROOT/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604290909676" />
+    <state x="748" y="528" width="410" height="144" key="#GOROOT/72.27.1848.1173@72.27.1848.1173" timestamp="1604660551213" />
     <state x="629" y="358" key="#Notifications" timestamp="1603858117561">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
