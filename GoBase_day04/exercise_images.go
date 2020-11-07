@@ -6,6 +6,32 @@
  */
 package main
 
+/*import (
+	"golang.org/x/tour/pic"
+	"image"
+	"image/color"
+)
+
+type Image struct{
+	w int
+	h int
+}
+
+func (i Image) Bounds() image.Rectangle {
+	return image.Rect(0, 0, i.w, i.h)
+}
+func (i Image) ColorModel() color.Model {
+	return color.RGBAModel
+}
+func (i Image) At(x, y int) color.Color {
+	return color.RGBA{uint8(x), uint8(y), 255, 255}
+}
+
+func main() {
+	m := Image{250, 250}
+	pic.ShowImage(m)
+}
+*/
 /*
 还记得之前编写的图片生成器吗？现在来另外编写一个，不过这次将会返回 image.Image 来代替 slice 的数据。
 

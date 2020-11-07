@@ -28,7 +28,11 @@
   <component name="ChangeListManager">
     <list default="true" id="7bfd2785-2ca4-471f-b2d5-84653004f07a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase_day04/exercise_images.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day04/exercise_images.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase_day04/exercise_reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day04/exercise_reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase_day04/exercise_rot_reader.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day04/exercise_rot_reader.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoBase_day05/exercise_equivalent_binary_trees.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoBase_day05/exercise_equivalent_binary_trees.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +69,12 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -72,13 +82,21 @@
       <recent name="D:\Learning\Go_Program\GolearningCode\sorter\src\algorithm\quicksort" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise_stringer.go">
+  <component name="RunManager" selected="Go Build.go build exercise_web_crawler.go">
     <configuration name="go build GolearningCode/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
       <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercise_rot_reader.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/GoBase_day04/exercise_rot_reader.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -90,19 +108,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build function_closures.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise_web_crawler.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Gobase_day03/function_closures.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build function_values.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GolearningCode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Gobase_day03/function_values.go" />
+      <filePath value="$PROJECT_DIR$/GoBase_day05/exercise_web_crawler.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -114,29 +124,29 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build mutating_maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build reader.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolearningCode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Gobase_day03/mutating_maps.go" />
+      <filePath value="$PROJECT_DIR$/GoBase_day04/reader.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build GolearningCode/" />
-      <item itemvalue="Go Build.go build function_closures.go" />
-      <item itemvalue="Go Build.go build function_values.go" />
-      <item itemvalue="Go Build.go build mutating_maps.go" />
       <item itemvalue="Go Build.go build hello.go" />
       <item itemvalue="Go Build.go build exercise_stringer.go" />
+      <item itemvalue="Go Build.go build reader.go" />
+      <item itemvalue="Go Build.go build exercise_rot_reader.go" />
+      <item itemvalue="Go Build.go build exercise_web_crawler.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercise_web_crawler.go" />
+        <item itemvalue="Go Build.go build exercise_rot_reader.go" />
+        <item itemvalue="Go Build.go build reader.go" />
         <item itemvalue="Go Build.go build exercise_stringer.go" />
         <item itemvalue="Go Build.go build hello.go" />
-        <item itemvalue="Go Build.go build function_closures.go" />
-        <item itemvalue="Go Build.go build function_values.go" />
-        <item itemvalue="Go Build.go build mutating_maps.go" />
       </list>
     </recent_temporary>
   </component>
@@ -195,27 +205,31 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1604749016549" />
-    <state width="1869" height="310" key="GridCell.Tab.0.bottom" timestamp="1604749541923">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1866" height="330" key="GridCell.Tab.0.bottom" timestamp="1604753601206">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1866" height="330" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604753601206" />
     <state width="1866" height="330" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603869371410" />
     <state width="1869" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1604749302989" />
     <state width="1869" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1604749541923" />
-    <state width="1869" height="310" key="GridCell.Tab.0.center" timestamp="1604749541923">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1866" height="330" key="GridCell.Tab.0.center" timestamp="1604753601206">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1866" height="330" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604753601206" />
     <state width="1866" height="330" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603869371410" />
     <state width="1869" height="310" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1604749302989" />
     <state width="1869" height="310" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1604749541923" />
-    <state width="1869" height="310" key="GridCell.Tab.0.left" timestamp="1604749541923">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1866" height="330" key="GridCell.Tab.0.left" timestamp="1604753601206">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1866" height="330" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604753601206" />
     <state width="1866" height="330" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603869371410" />
     <state width="1869" height="310" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1604749302989" />
     <state width="1869" height="310" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1604749541923" />
-    <state width="1869" height="310" key="GridCell.Tab.0.right" timestamp="1604749541923">
-      <screen x="0" y="0" width="1920" height="1170" />
+    <state width="1866" height="330" key="GridCell.Tab.0.right" timestamp="1604753601206">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1866" height="330" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1604753601206" />
     <state width="1866" height="330" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603869371410" />
     <state width="1869" height="310" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1604749302989" />
     <state width="1869" height="310" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1604749541923" />

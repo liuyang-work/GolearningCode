@@ -1,1 +1,1 @@
-Go 語言官網 A tour of go 的代碼練習
+Go语言官网（A tuor for Go）代码练习
